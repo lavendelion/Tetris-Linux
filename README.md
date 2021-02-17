@@ -1,6 +1,7 @@
 # Tetris-Linux
 Implementation of Tetris(Linux Version), purely operate in terminal.
-Still have some bugs to fix.
+
+Still have some bugs to fix. See "TODO.txt" for more information.
 
 * Download this repo
 * compile the project by

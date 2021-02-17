@@ -13,10 +13,15 @@ g++ *.cpp -o tetris
 ```
 
 Information for Operation:
-key A : move left;
-key D : move right;
-key W : rotate counter-clockwise;
-key S : rotate clockwise;
-key Space : move down;
+
+* key A : move left;
+
+* key D : move right;
+
+* key W : rotate counter-clockwise;
+
+* key S : rotate clockwise;
+
+* key Space : move down;
 
 Good luck for the Game!

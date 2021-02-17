@@ -26,3 +26,5 @@ Information for Operation:
 * key Space : move down;
 
 Good luck for the Game!
+
+![image-20210217181025981](README.assets/image-20210217181025981.png)
